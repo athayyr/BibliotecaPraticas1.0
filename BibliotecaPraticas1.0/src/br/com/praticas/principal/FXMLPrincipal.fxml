@@ -188,12 +188,14 @@
                                           <Label layoutX="517.0" layoutY="68.0" text="Ex: 69" AnchorPane.leftAnchor="509.0" AnchorPane.topAnchor="68.0" />
                                           <Label layoutX="64.0" layoutY="195.0" text="Ex: Maria do Carmo de Sousa Leite Silveira" AnchorPane.leftAnchor="27.0" AnchorPane.topAnchor="150.0" />
                                           <Label layoutX="64.0" layoutY="157.0" text="Nome Completo" AnchorPane.leftAnchor="27.0" AnchorPane.topAnchor="106.0" />
-                                          <TextField layoutX="27.0" layoutY="123.0" prefHeight="25.0" prefWidth="562.0" text="Digite o Nome Completo do Aluno" />
+                                          <TextField layoutX="27.0" layoutY="123.0" prefHeight="25.0" prefWidth="562.0" text="Digite o Nome Completo do Funcionario" />
                                           <TextField layoutX="603.0" layoutY="123.0" prefHeight="25.0" prefWidth="115.0" AnchorPane.leftAnchor="606.0" AnchorPane.topAnchor="123.0" />
                                           <Label layoutX="615.0" layoutY="106.0" text="Data de Nascimento" AnchorPane.leftAnchor="606.0" AnchorPane.topAnchor="106.0" />
                                           <Label layoutX="592.0" layoutY="150.0" text="Label" AnchorPane.leftAnchor="606.0" AnchorPane.topAnchor="106.0" />
                                           <Label layoutX="592.0" layoutY="150.0" text="Ex: 30/05/1997" AnchorPane.leftAnchor="606.0" AnchorPane.topAnchor="148.0" />
                                           <Separator layoutY="167.0" prefWidth="800.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="169.0" />
+                                          <Label layoutX="27.0" layoutY="181.0" text="Cargo" />
+                                          <TextField layoutX="27.0" layoutY="198.0" prefHeight="25.0" prefWidth="212.0" />
                                        </children>
                                     </AnchorPane>
                                  </content>
